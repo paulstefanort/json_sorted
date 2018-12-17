@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
   s.name = "json_sorted"
-  s.version = "0.0.1"
+  s.version = "0.0.2"
   s.licenses = ["MIT"]
   s.summary = "Pre-sort keys in Hash#to_json"
   s.description = "Ensure sorting of keys in JSON generated from Hash objects"
